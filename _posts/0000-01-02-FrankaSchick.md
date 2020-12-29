@@ -1,0 +1,10 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+“So this is it," said Arthur, "We are going to die."
+"Yes," said Ford, "except... no! Wait a minute!" He suddenly lunged across the chamber at something behind Arthur's line of vision. "What's this switch?" he cried.
+"What? Where?" cried Arthur, twisting round.
+"No, I was only fooling," said Ford, "we are going to die after all.”
+
+Use the left arrow to go back!
